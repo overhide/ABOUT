@@ -48,7 +48,7 @@ Learn about the system in the [overhide repo](https://github.com/overhide/overhi
 
 # Community
 
-Our sincere hope is to grow this together into a viable ecosystem.
+Our sincere hope is to grow *overhide* together.
 
 Please join us:
 
