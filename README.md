@@ -45,3 +45,13 @@ Learn about the system in the [overhide repo](https://github.com/overhide/overhi
 > Note everything in *overhide* is OSS with the exception of *overhide-ledger*--the US dollars ledger.
 >
 > *Overhide-ledger* is closed source and has a pending patent application (No. 62817820) "PSEUDONYMOUS FIAT CURRENCY TRANSACTION LOGGER SYSTEM AND METHOD FOR PAYMENT GATEWAYS".  It covers the fiat-currency specific IP as summarized in the [*why* write-up](https://github.com/overhide/ledgers.js/blob/master/why/why.md#what-does-overhide-ledger-do).
+
+# Community
+
+Our sincere hope is to grow this together into a viable ecosystem.
+
+Please join us:
+
+## [reddit :: r/overhide](https://www.reddit.com/r/overhide/)
+
+## [twitter :: @overhideio](https://twitter.com/overhideio)
