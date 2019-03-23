@@ -4,18 +4,18 @@
 
 The numerous [*overhide* GitHub repositories](https://github.com/overhide) constitute the OSS code of the *overhide* system.
 
-The *overhide* system is comprised of two main components:
+The *overhide* system is comprised of two main component categories:
 
-1. *data-store broker*
+1. *data-store brokerage*
 1. *ledger-based authorization*
 
-The *data-store broker* is the main deliverable of *overhide* and drives development of *ledger-based authorization*.
+The *data-store brokerage* is the main deliverable of *overhide* and drives development of *ledger-based authorization*.
 
 _**Learn about the system in the [overhide repo](https://github.com/overhide/overhide).**_
 
 # Repositories
 
-## Data-Store Broker Components
+## Data-Store Brokerage Components
 
 * [overhide](https://github.com/overhide/overhide) (specification)
     * overall documentation
