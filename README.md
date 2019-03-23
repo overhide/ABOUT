@@ -11,7 +11,7 @@ The *overhide* system is comprised of two main components:
 
 The *data-store broker* is the main deliverable of *overhide* and drives development of *ledger-based authorization*.
 
-Learn about the system in the [overhide repo](https://github.com/overhide/overhide).
+**Learn about the system in the [overhide repo](https://github.com/overhide/overhide).**
 
 # Repositories
 
