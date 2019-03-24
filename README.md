@@ -19,7 +19,7 @@ Learn about the system in the [overhide repo](https://github.com/overhide/overhi
 
 * [overhide](https://github.com/overhide/overhide) (specification)
     * overall documentation
-    * broker API documentation
+    * [broker API documentation](TBD)
     * definitions
     * concepts
     * specifications
@@ -34,6 +34,7 @@ Learn about the system in the [overhide repo](https://github.com/overhide/overhi
 * [ledgers.js](https://github.com/overhide/ledgers.js)
     * browser library for integration of *ledger-based authorization* into apps & services
     * a *demo* of such an integration
+* [Remuneration APIs](https://github.com/overhide/overhide/blob/master/docs/remuneration-api.md)
 * [overhide-ethereum](https://github.com/overhide/overhide-ethereum)
     * Ethereum implementation of *ledger-based authorization* [APIs](https://rinkeby.ethereum.overhide.io/swagger.html)
 * US dollars ledger ([main network](https://ohledger.com)) ([test network](https://test.ohledger.com))
