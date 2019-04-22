@@ -2,9 +2,9 @@
 
 # ABOUT
 
-The numerous [*overhide* GitHub repositories](https://github.com/overhide) constitute the OSS code of the *overhide* system.
+The numerous [*overhide* GitHub repositories](https://github.com/overhide) constitute the OSS code of the [*overhide* system](https://overhide.io).
 
-The *overhide* system is comprised of two main component categories:
+The [*overhide* system](https://overhide.io) is comprised of two main component categories:
 
 1. *data-store brokerage*
 1. *ledger-based authorization*
@@ -16,6 +16,10 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 # Repositories
 
 ## Data-Store Brokerage Components
+
+* [armadietto](https://github.com/overhide/armadietto) (remotestorage.io)
+    * fork of remotestorage.io's storage server--armadietto
+    * adding ledger-based authorization to this offering
 
 * [overhide](https://github.com/overhide/overhide) (specification)
     * overall documentation
@@ -49,7 +53,7 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 
 # Community
 
-Our sincere hope is to grow *overhide* together.
+Our sincere hope is to grow [*overhide*](https://overhide.io) together.
 
 Please join us:
 
