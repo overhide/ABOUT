@@ -6,10 +6,12 @@ The numerous [*overhide* GitHub repositories](https://github.com/overhide) const
 
 The [*overhide* system](https://overhide.io) is comprised of two main component categories:
 
-1. *data-store brokerage*
 1. *ledger-based authorization*
+1. *data-store brokerage*
 
 The *data-store brokerage* is the main deliverable of *overhide* and drives development of *ledger-based authorization*.
+
+_**Introductory material is at https://overhide.io**_
 
 _**Learn about the system in the [overhide repo](https://github.com/overhide/overhide).**_
 
@@ -37,7 +39,8 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
     * read this first
 * [ledgers.js](https://github.com/overhide/ledgers.js)
     * browser library for integration of *ledger-based authorization* into apps & services
-    * a *demo* of such an integration
+* [ledgers.js-demo](https://github.com/overhide/ledgers.js-demo)    
+    * a *demo* of a *ledgers.js* integration
 * [Remuneration APIs](https://github.com/overhide/overhide/blob/master/docs/remuneration-api.md)
 * [overhide-ethereum](https://github.com/overhide/overhide-ethereum)
     * Ethereum implementation of *ledger-based authorization* [APIs](https://rinkeby.ethereum.overhide.io/swagger.html)
