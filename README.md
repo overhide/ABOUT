@@ -44,7 +44,7 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 * [Remuneration APIs](https://github.com/overhide/overhide/blob/master/docs/remuneration-api.md)
 * [overhide-ethereum](https://github.com/overhide/overhide-ethereum)
     * Ethereum implementation of *ledger-based authorization* [APIs](https://rinkeby.ethereum.overhide.io/swagger.html)
-* US dollars ledger ([main network](https://ohledger.com)) ([test network](https://test.ohledger.com))
+* US dollars ledger ([main network](https://ledger.overhide.io)) ([test network](https://test.ledger.overhide.io))
     * US dollars implementation of *ledger-based authorization* [APIs](https://test.ohledger.com/swagger.html)
     * closed source ledger enabling *ledger-based authorization* with fiat currencies: US dollars
     * see the [ledgers.js](https://github.com/overhide/ledgers.js) *demo* for example use/integration
