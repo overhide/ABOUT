@@ -34,7 +34,7 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 
 ## Ledger-Based Authorization Components
 
-* [why?](https://github.com/overhide/ledgers.js/blob/master/why/why.md)
+* [why?](https://overhide.io/2019/03/20/why.html)
     * motivation for *ledger-based authorization*
     * read this first
 * [ledgers.js](https://github.com/overhide/ledgers.js)
@@ -52,7 +52,7 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
     
 > Note everything in *overhide* is OSS with the exception of *overhide-ledger*--the US dollars ledger.
 >
-> *Overhide-ledger* is closed source and has a pending patent application (No. 62817820) "PSEUDONYMOUS FIAT CURRENCY TRANSACTION LOGGER SYSTEM AND METHOD FOR PAYMENT GATEWAYS".  It covers the fiat-currency specific IP as summarized in the [*why* write-up](https://github.com/overhide/ledgers.js/blob/master/why/why.md#what-does-overhide-ledger-do).
+> *Overhide-ledger* is closed source and has a pending patent application (No. 62817820) "PSEUDONYMOUS FIAT CURRENCY TRANSACTION LOGGER SYSTEM AND METHOD FOR PAYMENT GATEWAYS".  It covers the fiat-currency specific IP as summarized in the [*why* write-up](https://overhide.io/2019/03/20/why.html#what-does-overhide-ledger-do).
 
 # Community
 
