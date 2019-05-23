@@ -25,7 +25,7 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 * [ledgers.js](https://github.com/overhide/ledgers.js)
     * browser library for integration of *ledger-based authorization* into apps & services
 * [ledgers.js-demo](https://overhide.github.io/ledgers.js-demo/demo/login.html) ([repo](https://github.com/overhide/ledgers.js-demo)    
-    * a *demo* of a *ledgers.js* integration)
+    * a *demo* of a *ledgers.js* integration))
 * [ledgers.js-demo-serverless-dapp](https://overhide.github.io/ledgers.js-demo-serverless-dapp/dist/index.html) ([repo](https://github.com/overhide/ledgers.js-demo-serverless-dapp))
    * a *demo* of a *ledgers.js* integration with the [remuneration APIs](https://github.com/overhide/overhide/blob/master/docs/remuneration-api.md) running in a serverless back-end (Azure)
 * [Remuneration APIs](https://github.com/overhide/overhide/blob/master/docs/remuneration-api.md)
