@@ -17,21 +17,6 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 
 # Repositories
 
-## Data-Store Brokerage Components
-
-* [armadietto](https://github.com/overhide/armadietto) (remotestorage.io)
-    * fork of remotestorage.io's storage server--armadietto
-    * adding ledger-based authorization to this offering
-
-* [overhide](https://github.com/overhide/overhide) (specification)
-    * overall documentation
-    * [broker API documentation](TBD)
-    * definitions
-    * concepts
-    * specifications
-
-> The broker components are still being developed towards the fist release as a [*minimally viable product*](https://github.com/overhide/overhide/blob/master/docs/mvp.md).    
-
 ## Ledger-Based Authorization Components
 
 * [why?](https://overhide.io/2019/03/20/why.html)
@@ -53,6 +38,21 @@ _**Learn about the system in the [overhide repo](https://github.com/overhide/ove
 > Note everything in *overhide* is OSS with the exception of *overhide-ledger*--the US dollars ledger.
 >
 > *Overhide-ledger* is closed source and has a pending patent application (No. 62817820) "PSEUDONYMOUS FIAT CURRENCY TRANSACTION LOGGER SYSTEM AND METHOD FOR PAYMENT GATEWAYS".  It covers the fiat-currency specific IP as summarized in the [*why* write-up](https://overhide.io/2019/03/20/why.html#what-does-overhide-ledger-do).
+
+## Data-Store Brokerage Components
+
+> All of the below broker components are still in early stages of development; all towards the fist release as a [*minimally viable product*](https://github.com/overhide/overhide/blob/master/docs/mvp.md).    
+
+* [overhide](https://github.com/overhide/overhide) (specification)
+    * overall documentation
+    * [broker API documentation](TBD)
+    * definitions
+    * concepts
+    * specifications
+
+* [armadietto](https://github.com/overhide/armadietto) (remotestorage.io)
+    * fork of remotestorage.io's storage server--armadietto
+    * adding ledger-based authorization to this offering
 
 # Community
 
