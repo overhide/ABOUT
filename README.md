@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/overhide"><img src="./.github/stale.png" width="200px"/></a></p>
+
 <p align="center"><a href="https://github.com/overhide"><img src="./.github/logo.png" width="200px"/></a></p>
 
 # ABOUT
